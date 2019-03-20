@@ -1,0 +1,49 @@
+body{
+    background-color: #C8102E;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 52pt;
+}
+
+div{
+    background-color: white;
+}
+
+div h2{
+    text-decoration: underline;
+    text-align: center;
+}
+
+#crests-pic{
+    background-color: white;
+}
+
+#crests{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#about{
+    font-family: 'Lora', serif;
+    text-align: center;
+    list-style-type: none;
+}
+
+
+#next{
+    font-family: 'Lora', serif;
+    list-style-type: none;
+    text-align: center;
+}
+
+#previous{
+    font-family: 'Lora', serif;
+    list-style-type: none;
+    text-align: center;
+}
+
